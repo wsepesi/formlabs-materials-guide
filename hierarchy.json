@@ -1,0 +1,80 @@
+{
+    "dental": {
+      "restorative": [
+        "FLTCA201", "FLTCA301", "FLTCB101", "FLTCBL01", "FLTCC201",
+        "FLPCA201", "FLPCA301", "FLPCB101", "FLPCC201",
+        "BGTQA201", "BGTQA301", "BGTQB101"
+      ],
+      "prosthetics": [
+        "FLDBDP01", "FLDBLP01", "FLDBOP01", "FLDBRP01",
+        "FLDTA101", "FLDTA201", "FLDTA301", "FLDTAS01", "FLDTB101", "FLDTB201",
+        "FLPTA201", "FLPTA301", "FLPTB101", "FLPTBL01"
+      ],
+      "models_and_guides": [
+        "FLDMBE01", "FLDMBE02", "FLDMBE03", "FLPMBE01", "FLFMGR01",
+        "FLDGOR01", "FLSGAM01",
+        "FLCTBL01", "FLIBCL01", "FLIBFL01"
+      ],
+      "splints_and_guards": [
+        "FLDLCL01", "FLDLCL02", "FLDLCO01", "FLDLCO11"
+      ]
+    },
+    "medical_biocompatible": [
+      "FLBMAM01", "FLBMBL01", "FLBMCL01", "FLBMWH01",
+      "FLBMDU01", "FLBMDU11", "FLBMEL01", "FLBMFL01"
+    ],
+    "engineering": {
+      "tough": [
+        "FLTOTL01", "FLTOTL02", "FLTOTL03", "FLTOTL04", "FLTOTL05",
+        "FLTO1501", "FLTO1511", "FLTO1502", "FLTO2001", "FLTO2011"
+      ],
+      "rigid": [
+        "FLRGWH01", "FLRG1001", "FLRG1011",
+        "FLPU6501", "FLPU1001"
+      ],
+      "durable": [
+        "FLDUCL01", "FLDUCL02", "FLDUCL21"
+      ],
+      "flexible_elastic": [
+        "FLELCL01", "FLELCL02",
+        "FLFL8001", "FLFL8011",
+        "FLFLGR01", "FLFLGR02",
+        "FLSI4001"
+      ]
+    },
+    "prototyping": {
+      "general_purpose": [
+        "FLGPGR02", "FLGPGR03", "FLGPGR04", "FLGPGR05", "FLGPGR41",
+        "FLGPBK01", "FLGPBK02", "FLGPBK03", "FLGPBK04", "FLGPBK05", "FLGPBK41",
+        "FLGPWH01", "FLGPWH02", "FLGPWH03", "FLGPWH04", "FLGPWH05", "FLGPWH41",
+        "FLGPCL02", "FLGPCL03", "FLGPCL04", "FLGPCL05", "FLGPCL41",
+        "FLGPCB01", "FLPRGR01"
+      ],
+      "rapid": [
+        "FLDRBL01", "FLDRGR02"
+      ]
+    },
+    "specialized": {
+      "casting_jewelry": [
+        "FLCABL01", "FLCABL02", "FLCW4001", "FLCWPU01",
+        "FLCCCL01", "FLTCLV01"
+      ],
+      "ceramic_technical": [
+        "FLCEWH01", "FLAL4N01"
+      ],
+      "industrial": [
+        "FLHTAM01", "FLHTAM02",
+        "FLESDS01",
+        "FLFRGR01"
+      ]
+    },
+    "powder_sls": {
+      "nylon": [
+        "FLP11B01", "FLP11C01",
+        "FLP12B01", "FLP12G01", "FLP12T01", "FLP12W01"
+      ],
+      "flexible": [
+        "FLTP9G01", "FLPLPG01"
+      ]
+    }
+  }
