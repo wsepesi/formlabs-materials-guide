@@ -207,7 +207,9 @@ const categoryCodeMap = flattenCategoryCodes(categoryTree);
 const codeToCategoryPaths = buildCodeToCategoryPaths(categoryTree);
 const printers = buildPrinters(materialsData as RawMaterialData, codeToCategoryPaths);
 
-const defaultPrinterId = printers[0]?.id ?? '';
+const DEFAULT_PRINTER_LABEL = 'Form 4';
+const defaultPrinterId =
+  printers.find((printer) => printer.label === DEFAULT_PRINTER_LABEL)?.id ?? printers[0]?.id ?? '';
 
 const formatLayerLabel = (thickness: number) => `${thickness.toFixed(3)} mm`;
 
