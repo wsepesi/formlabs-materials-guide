@@ -508,7 +508,7 @@ export default function Page() {
         <h1 style={{ margin: 0, fontSize: '2.25rem', letterSpacing: '-0.02em' }}>Formlabs Material Compatibility</h1>
         <p style={{ maxWidth: '52ch', lineHeight: 1.5, margin: 0 }}>
           Choose your printer, narrow down materials by application, and copy ready-to-use material scene settings for your slice
-          profiles. Design stays monochrome for a clean, functional feel.
+          profiles.
         </p>
       </header>
 
